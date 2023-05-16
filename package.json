@@ -1,0 +1,25 @@
+{
+  "name": "gador-footer-js",
+  "version": "0.1.0",
+  "description": "Este módulo permite generar un pie de página dinámicamente para una app JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gdr18/gador-footer-js.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Gádor García <gador8@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gdr18/gador-footer-js/issues"
+  },
+  "homepage": "https://github.com/Gdr18/gador-footer-js#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
